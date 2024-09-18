@@ -1,0 +1,9 @@
+{
+    "endpoint": "/order",
+    "method": "POST",
+    "response": {
+        "body": {
+            "id": "779f1d85-27b0-42f8-b7bd-3ae60d01c8bf"
+        }
+    }
+}

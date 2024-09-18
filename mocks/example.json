@@ -1,0 +1,23 @@
+[
+    {
+        "endpoint": "/echo",
+        "method": "POST",
+        "response": {
+            "body": "echo",
+            "headers": {
+                "Content-Type": "text/plain"
+            },
+            "statusCode": 201
+        }
+    },
+    {
+        "endpoint": "/echo",
+        "method": "GET",
+        "response": {
+            "body": "echo - GET",
+            "headers": {
+                "Content-Type": "text/plain"
+            }
+        }
+    }
+]
